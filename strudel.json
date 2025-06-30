@@ -3,5 +3,13 @@
   "loop1": "drum1.wav",
   "dead": "dead.wav",
   "lie": "lie.wav",
-  "bass": "bass.wav"
+  "bass": "bass.wav",
+  "church": "church.wav",
+  "laugh": "laugh.wav",
+  "sea": "sea.wav",
+  "rain": "rain.wav",
+  "drill": "drill.wav",
+  "ethno": "ethno.wav",
+  "key": "key1.wav",
+  "siren": "siren.wav"
 }
