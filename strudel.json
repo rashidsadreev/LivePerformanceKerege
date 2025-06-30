@@ -1,0 +1,7 @@
+{
+  "_base": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/master/",
+  "loop1": "drum1.wav",
+  "dead": "dead.wav",
+  "lie": "lie.wav",
+  "bass": "bass.wav"
+}
